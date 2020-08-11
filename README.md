@@ -11,7 +11,7 @@ Acesse seu client de banco de dados e crie o database
 
 `CREATE DATABASE DEVDOJO;`
 
-**Em seguida rode as aplicações na seguinte sequência:**
+**Rode as aplicações na seguinte sequência:**
 
 DiscoveryApplication
 
